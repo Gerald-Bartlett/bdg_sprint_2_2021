@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bdg_sprint_2_2021/static/css/main.c0c6b210.chunk.css",
+    "main.js": "/bdg_sprint_2_2021/static/js/main.caffcaa3.chunk.js",
+    "main.js.map": "/bdg_sprint_2_2021/static/js/main.caffcaa3.chunk.js.map",
+    "runtime-main.js": "/bdg_sprint_2_2021/static/js/runtime-main.a842f636.js",
+    "runtime-main.js.map": "/bdg_sprint_2_2021/static/js/runtime-main.a842f636.js.map",
+    "static/js/2.15ff4546.chunk.js": "/bdg_sprint_2_2021/static/js/2.15ff4546.chunk.js",
+    "static/js/2.15ff4546.chunk.js.map": "/bdg_sprint_2_2021/static/js/2.15ff4546.chunk.js.map",
+    "index.html": "/bdg_sprint_2_2021/index.html",
+    "static/css/main.c0c6b210.chunk.css.map": "/bdg_sprint_2_2021/static/css/main.c0c6b210.chunk.css.map",
+    "static/js/2.15ff4546.chunk.js.LICENSE.txt": "/bdg_sprint_2_2021/static/js/2.15ff4546.chunk.js.LICENSE.txt",
+    "static/media/Assorted4.aff39bed.jpg": "/bdg_sprint_2_2021/static/media/Assorted4.aff39bed.jpg",
+    "static/media/Broccoli3.401740d5.jpg": "/bdg_sprint_2_2021/static/media/Broccoli3.401740d5.jpg",
+    "static/media/Chicken6.d0364136.jpg": "/bdg_sprint_2_2021/static/media/Chicken6.d0364136.jpg",
+    "static/media/Crab8.7895798c.jpg": "/bdg_sprint_2_2021/static/media/Crab8.7895798c.jpg",
+    "static/media/Fish2.02f2342c.jpg": "/bdg_sprint_2_2021/static/media/Fish2.02f2342c.jpg",
+    "static/media/Pizza7.ecfb5a9d.jpg": "/bdg_sprint_2_2021/static/media/Pizza7.ecfb5a9d.jpg",
+    "static/media/Popsicle5.5b1724a3.jpg": "/bdg_sprint_2_2021/static/media/Popsicle5.5b1724a3.jpg",
+    "static/media/Steak1.0157bfd7.jpg": "/bdg_sprint_2_2021/static/media/Steak1.0157bfd7.jpg",
+    "static/media/App.css": "/bdg_sprint_2_2021/static/media/Winter.6adcd93d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a842f636.js",
+    "static/js/2.15ff4546.chunk.js",
+    "static/css/main.c0c6b210.chunk.css",
+    "static/js/main.caffcaa3.chunk.js"
+  ]
+}

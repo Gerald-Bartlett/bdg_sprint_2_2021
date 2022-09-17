@@ -5,12 +5,12 @@ import {
   Routes,
   BrowserRouter as Router,
 } from "react-router-dom";
-import Home from "./Sprint_2/Home";
-import NewEntry from "./Sprint_2/NewEntry";
-import DisplayContents from "./Sprint_2/DisplayContents";
-import Login from "./Sprint_2/Login";
-import Navigation from "./Sprint_2/Navigation";
-import Footer from "./Sprint_2/Footer";
+import Home from "./Home";
+import NewEntry from "./NewEntry";
+import DisplayContents from "./DisplayContents";
+import Login from "./Login";
+import Navigation from "./Navigation";
+import Footer from "./Footer";
 export default function App(){ 
   return (
     <Router>

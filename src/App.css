@@ -8,7 +8,7 @@
   text-align: center;
 }
 /*Background Image */
-#root{ background-image: url("./Sprint_2/Photos/Winter.jpg"), url("./Sprint_2/Photos/Winter.jpg");
+#root{ background-image: url("./Photos/Winter.jpg"), url("./Photos/Winter.jpg");
   background-repeat: no-repeat;
   background-size: auto;
 }

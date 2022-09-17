@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bdgFridge_sprint_2_2021/static/css/main.18fe028f.chunk.css",
+    "main.js": "/bdgFridge_sprint_2_2021/static/js/main.caffcaa3.chunk.js",
+    "main.js.map": "/bdgFridge_sprint_2_2021/static/js/main.caffcaa3.chunk.js.map",
+    "runtime-main.js": "/bdgFridge_sprint_2_2021/static/js/runtime-main.969b2647.js",
+    "runtime-main.js.map": "/bdgFridge_sprint_2_2021/static/js/runtime-main.969b2647.js.map",
+    "static/js/2.15ff4546.chunk.js": "/bdgFridge_sprint_2_2021/static/js/2.15ff4546.chunk.js",
+    "static/js/2.15ff4546.chunk.js.map": "/bdgFridge_sprint_2_2021/static/js/2.15ff4546.chunk.js.map",
+    "index.html": "/bdgFridge_sprint_2_2021/index.html",
+    "static/css/main.18fe028f.chunk.css.map": "/bdgFridge_sprint_2_2021/static/css/main.18fe028f.chunk.css.map",
+    "static/js/2.15ff4546.chunk.js.LICENSE.txt": "/bdgFridge_sprint_2_2021/static/js/2.15ff4546.chunk.js.LICENSE.txt",
+    "static/media/Assorted4.aff39bed.jpg": "/bdgFridge_sprint_2_2021/static/media/Assorted4.aff39bed.jpg",
+    "static/media/Broccoli3.401740d5.jpg": "/bdgFridge_sprint_2_2021/static/media/Broccoli3.401740d5.jpg",
+    "static/media/Chicken6.d0364136.jpg": "/bdgFridge_sprint_2_2021/static/media/Chicken6.d0364136.jpg",
+    "static/media/Crab8.7895798c.jpg": "/bdgFridge_sprint_2_2021/static/media/Crab8.7895798c.jpg",
+    "static/media/Fish2.02f2342c.jpg": "/bdgFridge_sprint_2_2021/static/media/Fish2.02f2342c.jpg",
+    "static/media/Pizza7.ecfb5a9d.jpg": "/bdgFridge_sprint_2_2021/static/media/Pizza7.ecfb5a9d.jpg",
+    "static/media/Popsicle5.5b1724a3.jpg": "/bdgFridge_sprint_2_2021/static/media/Popsicle5.5b1724a3.jpg",
+    "static/media/Steak1.0157bfd7.jpg": "/bdgFridge_sprint_2_2021/static/media/Steak1.0157bfd7.jpg",
+    "static/media/App.css": "/bdgFridge_sprint_2_2021/static/media/Winter.6adcd93d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969b2647.js",
+    "static/js/2.15ff4546.chunk.js",
+    "static/css/main.18fe028f.chunk.css",
+    "static/js/main.caffcaa3.chunk.js"
+  ]
+}

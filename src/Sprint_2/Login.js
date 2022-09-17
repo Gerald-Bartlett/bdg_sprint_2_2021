@@ -22,21 +22,21 @@ import Crab8 from "./Photos/Crab8.jpg";
         e.target.name.value === "Gerald" &&
         e.target.password.value === "123456"
       ) {
-        window.open("http://localhost:3001");
+        window.open("http://localhost:3000");
         e.target.name.value = "";
         e.target.password.value = "";
       } else if (
         e.target.name.value === "David" &&
         e.target.password.value === "123456"
       ) {
-        window.open("http://localhost:3001");
+        window.open("http://localhost:3000");
         e.target.name.value = "";
         e.target.password.value = "";
       } else if (
         e.target.name.value === "Barry" &&
         e.target.password.value === "123456"
       ) {
-        window.open("http://localhost:3001");
+        window.open("http://localhost:3000");
         e.target.name.value = "";
         e.target.password.value = "";
       } else {

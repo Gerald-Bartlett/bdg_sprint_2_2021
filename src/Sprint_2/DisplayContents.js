@@ -11,6 +11,7 @@ const DisplayContents = () => {
   let currentItem = JSON.parse(localStorage.getItem("Freezer_Item"));
   console.log(currentItem);
   const handleRemove=()=>{
+    
   }
     return (
     <div className="items">

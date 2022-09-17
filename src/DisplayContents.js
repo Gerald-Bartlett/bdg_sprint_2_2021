@@ -67,7 +67,7 @@ const DisplayContents = () => {
                 <td id="b1">{item.quantity}</td>
                 <td id="c1">{item.dateEntered}</td>
                 <td>
-                  <button id="btn1" onClick={(handleRemove())}>Remove</button>
+                  <button id="btn1" onClick={(handleRemove("freezer-list"))}>Remove</button>
                 </td>
               </tr>
             )

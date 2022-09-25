@@ -10,9 +10,10 @@ import Crab8 from "./Photos/Crab8.jpg";
 const DisplayContents = () => {
   let currentItem = JSON.parse(localStorage.getItem("Freezer_Item"));
   console.log(currentItem);
-  const handleRemove=()=>{
+  const handleRemoveItem=()=>{
     
   }
+  
     return (
     <div className="items">
       <div id="one">
@@ -63,13 +64,16 @@ const DisplayContents = () => {
           {currentItem.map((item)=>{
             return(
               <tr>
-                <td id="a">{item.foodItem}</td>
+                <td id="a1">{item.foodItem}</td>
                 <td id="b1">{item.quantity}</td>
                 <td id="c1">{item.dateEntered}</td>
                 <td>
-                  <button id="btn1" onClick={(handleRemove())}>Remove</button>
+                  <button id="btn1" onClick={(handleRemoveItem)}>Remove</button>
+                 
                 </td>
               </tr>
+
+
             )
           })}
         </tbody>

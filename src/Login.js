@@ -22,7 +22,7 @@ import Crab8 from "./Photos/Crab8.jpg";
         e.target.name.value === "Gerald" &&
         e.target.password.value === "123456"
       ) {
-        window.open("https://gerald-bartlett.github.io/");
+        window.open("https://gerald-bartlett.github.io/NewEntry");
         e.target.name.value = "";
         e.target.password.value = "";
       } else if (
